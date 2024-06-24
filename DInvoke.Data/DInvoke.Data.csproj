@@ -9,6 +9,7 @@
         <Authors>TheWover, RastaMouse</Authors>
         <Description>Required data classes, structs and enums.</Description>
         <PackageVersion>1.0.7</PackageVersion>
+        <Platforms>AnyCPU;x64</Platforms>
     </PropertyGroup>
 
 </Project>

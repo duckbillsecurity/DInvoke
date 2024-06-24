@@ -11,6 +11,7 @@
         <AssemblyName>DInvoke.DynamicInvoke</AssemblyName>
         <RootNamespace>DInvoke.DynamicInvoke</RootNamespace>
         <PackageVersion>1.0.7</PackageVersion>
+        <Platforms>AnyCPU;x64</Platforms>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
